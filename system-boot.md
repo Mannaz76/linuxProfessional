@@ -4,7 +4,7 @@
 
 ```bash
 vim /etc/default/grub
-
+```
 ```
 #GRUB_TIMEOUT_STYLE=hidden
 GRUB_TIMEOUT=10
@@ -12,3 +12,4 @@ GRUB_TIMEOUT=10
 ```bash
 update-grub
 reboot
+```
